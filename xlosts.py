@@ -9,7 +9,7 @@ def id_generator(size=5, chars=string.ascii_uppercase + string.ascii_lowercase +
 num = id_generator()
 
 r = ('https://soundcloud.com/jahseh-onfroy/xxxtentacion-3-am-freestyle-prod-xxx-clams-casino/s-'+num)
-response = requests.get('https://soundcloud.com/jahseh-onfroy/xxxtentacion-3-am-freestyle-prod-xxx-clams-casino/s-'+num)
+response = requests.get('hhttps://soundcloud.com/jahseh-onfroy/chapter-1-outro-prod-kellbender-xxx/s-Y4vRd/s-'+num)
 m = response.status_code
 
 while(m!=a):
